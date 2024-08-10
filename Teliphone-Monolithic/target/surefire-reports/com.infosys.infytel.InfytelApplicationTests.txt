@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.infosys.infytel.InfytelApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.887 s - in com.infosys.infytel.InfytelApplicationTests
